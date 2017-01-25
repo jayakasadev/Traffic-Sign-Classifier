@@ -7,11 +7,9 @@ In this project, I used what I've learned about deep neural networks and convolu
 
 ### Dependencies
 [TensorFlow](https://www.tensorflow.org/)
-
-Use [Anaconda](https://www.continuum.io/downloads) to install the dependencies
-Use Anaconda 4.2 for Python 3.5
+[Scikit-Learn](http://scikit-learn.org/)
+[Anaconda](https://www.continuum.io/downloads) 4.2 for Python 3.5 to install the dependencies
 
 ### Dataset
-Training and Test data are stored in the traffic-signs-data subfolder.
-
-Future test data will be stored in a different subfolder.
+Training and Test data should be downloaded from the provided url
+Unzip the pickled files into a subfolder named "traffic-signs-data subfolder".
